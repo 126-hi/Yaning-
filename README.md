@@ -13,4 +13,4 @@ To make a link:
 
 
 *This is me!*
-![my pic](
+![my pic](WechatIMG4053.jpeg)
